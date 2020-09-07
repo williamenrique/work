@@ -13,7 +13,7 @@
 	"passphrase": null,
 	"agent": null,
 	"allow": [],
-	"ignore": ["\\.vscode", "\\.git", "\\.DS_Store"],
+	"ignore": ["\\.vscode", "\\.DS_Store"],
 	"generatedFiles": {
 		"extensionsToInclude": [""],
 		"path": ""
