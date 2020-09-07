@@ -1,4 +1,4 @@
-<?php include $_SERVER['DOCUMENT_ROOT'].'/work/core/conf/config.sistema.php'; ?>
+
 <!DOCTYPE html>
 <html lang="en">
 

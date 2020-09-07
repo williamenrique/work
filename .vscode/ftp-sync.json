@@ -1,0 +1,21 @@
+{
+	"remotePath": "/public_html",
+	"host": "workinfo.ibx.lat",
+	"username": "workinfo",
+	"password": "obAr7771aZ",
+	"port": 21,
+	"secure": false,
+	"protocol": "ftp",
+	"uploadOnSave": true,
+	"passive": false,
+	"debug": false,
+	"privateKeyPath": null,
+	"passphrase": null,
+	"agent": null,
+	"allow": [],
+	"ignore": ["\\.vscode", "\\.git", "\\.DS_Store"],
+	"generatedFiles": {
+		"extensionsToInclude": [""],
+		"path": ""
+	}
+}
