@@ -1,18 +1,9 @@
 <?php 
-include 'modules/inc/head.php';
+include $_SERVER['DOCUMENT_ROOT'].'/work/core/conf/config.sistema.php';
+include './modules/include/head.php';
 ?>
 
 <body>
-
-	<!----------------------------------------------------------------------- 
-      
-    This template was created with MDB 5 UI KIT (Material Design for Bootstrap 5).
-
-    MDB is a free (MIT license) library, that provides extra features and significantly extends Bootstrap's capabilities.
-
-    Visit our website to learn more: https://mdbootstrap.com/docs/standard/ 
-  
-    --------------------------------------------------------------------------->
 
 	<!--Main Navigation-->
 	<header>
@@ -38,8 +29,7 @@ include 'modules/inc/head.php';
 			<div class="container-fluid">
 				<!-- Navbar brand -->
 				<a class="navbar-brand" target="_blank" href="https://mdbootstrap.com/docs/standard/">
-					<img src="https://mdbootstrap.com/img/logo/mdb-transaprent-noshadows.png" height="16" alt="" loading="lazy"
-						style="margin-top: -3px;" />
+					<img src="./src/img/logoWI.png" height="40" alt="" loading="lazy" style="margin-top: -3px;" />
 				</a>
 				<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarExample01"
 					aria-controls="navbarExample01" aria-expanded="false" aria-label="Toggle navigation">
@@ -328,9 +318,7 @@ include 'modules/inc/head.php';
 		<!-- Copyright -->
 	</footer>
 	<!--Footer-->
-	<?php include 'modules/inc/footer.php'?>
+	<?php include './modules/include/footer.php'?>
 </body>
-
-
 
 </html>
