@@ -10,7 +10,10 @@ body {
 }
 
 header {
-  border: 1px solid;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
 }
 
 header .cont-header {
@@ -18,10 +21,6 @@ header .cont-header {
   height: 80px;
   display: flex;
   align-items: center;
-}
-
-header .cont-header .cont-logo {
-  border: 1px solid red;
 }
 
 header .cont-header .cont-logo .logo {
@@ -34,7 +33,6 @@ header .cont-header .cont-logo .open {
 
 header .cont-header .cont-menu {
   margin-left: 20px;
-  border: 1px solid green;
 }
 
 header .cont-header .cont-menu .close {
@@ -54,6 +52,19 @@ header .cont-header .cont-menu .cont-link a {
 
 header .cont-header .cont-menu .cont-link a:hover {
   color: #000;
+}
+
+.banner {
+  width: 100%;
+  height: 100vh;
+  background: #004f68;
+  background: -moz-linear-gradient(left, #004f68 0%, #0096ab 100%);
+  background: -webkit-gradient(left top, right top, color-stop(0%, #004f68), color-stop(100%, #0096ab));
+  background: -webkit-linear-gradient(left, #004f68 0%, #0096ab 100%);
+  background: -o-linear-gradient(left, #004f68 0%, #0096ab 100%);
+  background: -ms-linear-gradient(left, #004f68 0%, #0096ab 100%);
+  background: linear-gradient(to right, #004f68 0%, #0096ab 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#004f68', endColorstr='#0096ab', GradientType=1 );
 }
 
 @media screen and (max-width: 600px) {

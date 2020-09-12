@@ -10,11 +10,14 @@
 			<div class="box-grid row">
 				<div class="col-12 col-md-4">
 
-					<div class="cont-img">
+					<div class="cont-img text-center">
 						<img src="./src/assets/img/logoWI.png" alt="" class="img-fluid">
 					</div>
 				</div>
-				<div class="col-12 col-md-4">dd</div>
+				<div class="col-12 col-md-4">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minus facere non repellat
+					dolor deserunt porro, mollitia aperiam quasi assumenda quibusdam cupiditate, facilis animi deleniti. Culpa
+					excepturi assumenda, non debitis perferendis nam quis magni iste. Adipisci nam possimus pariatur debitis
+					consequatur incidunt qui. Vero non velit omnis error aut iusto aperiam?</div>
 				<div class="col-12 col-md-4">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Blanditiis ipsam velit
 					molestias, beatae unde earum omnis sequi libero magnam illum sit aliquid assumenda aut tempore ratione modi
 					dolorum voluptates amet corrupti inventore consequatur obcaecati, quam fuga corporis? Eius, maiores. Nisi
@@ -25,11 +28,7 @@
 					inventore aut debitis, laboriosam expedita ullam soluta dolor quam harum error quisquam suscipit, ipsam
 					architecto perspiciatis. Quam possimus ducimus quasi. Ipsam facere impedit ullam similique dolor voluptatibus,
 					culpa consectetur? Repellat minus, minima corporis molestias numquam perspiciatis provident inventore eligendi
-					obcaecati facere aut impedit voluptatum maxime laborum voluptas cum? Accusamus est eveniet fugit veniam
-					molestias nostrum et iure eaque ea reiciendis nesciunt minus voluptates doloribus earum dignissimos laudantium
-					numquam ipsam aperiam architecto quas dolorem, consequuntur placeat consectetur. Optio sint nesciunt
-					doloremque vitae, deleniti fuga ratione, deserunt commodi voluptate maxime accusantium obcaecati reiciendis
-					numquam facilis odit doloribus soluta, molestias quas labore cum?</div>
+				</div>
 			</div>
 		</div>
 	</div>
