@@ -73,7 +73,6 @@ header .box-header .box-menu .menu .close {
 }
 
 .box-servicio .box-grid .cont-img {
-  border: 3px solid #000;
-  background-color: red;
+  width: 200px;
 }
 /*# sourceMappingURL=style.css.map */
