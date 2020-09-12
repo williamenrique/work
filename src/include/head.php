@@ -17,8 +17,10 @@
 	<link rel="stylesheet" href="<?php echo css?>bootstrap.min.css" />
 	<link rel="stylesheet" href="<?php echo css?>mdb.min.css" />
 	<link rel="stylesheet" href="<?php echo css?>mdb.min.css" />
+	<link rel="stylesheet" href="<?php echo css?>style.css" />
 	<!-- Custom styles -->
 	<style></style>
 </head>
 
 <body>
+	<?php include './src/components/navbar.php'?>

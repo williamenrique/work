@@ -1,51 +1,26 @@
-<nav class="navbar navbar-expand-lg navbar-light bg-white fixed-top">
-	<div class="container-fluid">
-		<!-- Navbar brand -->
-		<a class="navbar-brand" target="_blank" href="https://mdbootstrap.com/docs/standard/">
-			<img src="./src/img/logoWI.png" height="40" alt="" loading="lazy" style="margin-top: -3px;" />
-		</a>
-		<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarExample01"
-			aria-controls="navbarExample01" aria-expanded="false" aria-label="Toggle navigation">
-			<span class="navbar-toggler-icon"></span>
-		</button>
-		<div class="collapse navbar-collapse" id="navbarExample01">
-			<ul class="navbar-nav mr-auto mb-2 mb-lg-0">
-				<li class="nav-item active">
-					<a class="nav-link" aria-current="page" href="#intro">Home</a>
-				</li>
-				<li class="nav-item">
-					<a class="nav-link" href="https://www.youtube.com/channel/UC5CF7mLQZhvx8O5GODZAhdA" rel="nofollow"
-						target="_blank">Learn Bootstrap 5</a>
-				</li>
-				<li class="nav-item">
-					<a class="nav-link" href="https://mdbootstrap.com/docs/standard/" target="_blank">Download MDB UI KIT</a>
-				</li>
-			</ul>
+	<header>
+		<div class="box-header">
+			<div class="container-fluid">
+				<div class="box-menu">
+					<div class="logo">
+						<a href="#" class="fg">
+							<img src="<?php echo img?>logoWI.png" class="img-fluid" alt=""></a>
+						<div class="open bars">
+							<i class="fas fa-bars "></i>
+						</div>
+					</div>
+					<nav class="menu">
+						<div class="close end-xs">
+							<i class="far fa-times-circle "></i>
+						</div>
+						<a href="#">servicios</a>
+						<a href="#">portafolio</a>
+						<a href="#">acerca</a>
+						<a href="#">contacto</a>
+						<a href="#">login</a>
+					</nav>
 
-			<ul class="navbar-nav list-inline">
-				<!-- Icons -->
-				<li class="">
-					<a class="nav-link" href="https://www.youtube.com/channel/UC5CF7mLQZhvx8O5GODZAhdA" rel="nofollow"
-						target="_blank">
-						<i class="fab fa-youtube"></i>
-					</a>
-				</li>
-				<li class="">
-					<a class="nav-link" href="https://www.facebook.com/mdbootstrap" rel="nofollow" target="_blank">
-						<i class="fab fa-facebook-f"></i>
-					</a>
-				</li>
-				<li class="nav-item">
-					<a class="nav-link" href="https://twitter.com/MDBootstrap" rel="nofollow" target="_blank">
-						<i class="fab fa-twitter"></i>
-					</a>
-				</li>
-				<li class="nav-item">
-					<a class="nav-link" href="https://github.com/mdbootstrap/mdb-ui-kit" rel="nofollow" target="_blank">
-						<i class="fab fa-github"></i>
-					</a>
-				</li>
-			</ul>
+				</div>
+			</div>
 		</div>
-	</div>
-</nav>
+	</header>

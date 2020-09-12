@@ -9,6 +9,7 @@ $nombresistema = "Sistema en prueba";	// nombre del sistema
 define('css',$servidor.'/src/assets/css/');
 define('js',$servidor.'/src/assets/js/');
 define('img',$servidor.'/src/assets/img/');
+define('components',$servidor.'/src/components/');
 
 define('RAIZ',$_SERVER["DOCUMENT_ROOT"].'/');
 define('modules',$_SERVER["DOCUMENT_ROOT"].'/modules/');
