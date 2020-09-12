@@ -1,7 +1,8 @@
 <?php
 @session_start();
 header('Content-type: text/html; charset=utf-8');
-$servidor = "http://localhost/work/";
+//$servidor = "http://localhost/work/";
+$servidor = "http://workinfo.rf.gd/";
 $sistema = "core/src/";	
 $nombresistema = "Sistema en prueba";	// nombre del sistema
 

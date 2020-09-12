@@ -1,0 +1,45 @@
+{
+	"_readMe": "Review list of sync operations, then use Ftp-sync: Commit command to accept changes. Note that if you're not in your root directory then all the parent directories will also be uploaded",
+	"_warning": "This file should not be saved, reopened review file won't work!",
+	"filesToUpdate": [],
+	"filesToAdd": [
+		"index.php",
+		"readme.txt",
+		"core/conf/config.sistema.php",
+		"src/components/footer.php",
+		"src/components/navbar.php",
+		"src/include/footer.php",
+		"src/include/head.php",
+		"src/assets/css/bootstrap.min.css",
+		"src/assets/css/fontAwesome-Free-5.8.2.css",
+		"src/assets/css/mdb.min.css",
+		"src/assets/css/mdb.min.css.map",
+		"src/assets/css/style.css",
+		"src/assets/css/style.css.map",
+		"src/assets/img/logoWI.png",
+		"src/assets/js/app.js",
+		"src/assets/js/bootstrap.min.js",
+		"src/assets/js/jquery.min.js",
+		"src/assets/js/mdb.min.js",
+		"src/assets/js/mdb.min.js.map",
+		"src/assets/js/popper.min.js",
+		"src/assets/scss/style.scss"
+	],
+	"dirsToAdd": [
+		"core",
+		"src",
+		"core/conf",
+		"src/assets",
+		"src/components",
+		"src/include",
+		"src/assets/css",
+		"src/assets/img",
+		"src/assets/js",
+		"src/assets/scss"
+	],
+	"filesToRemove": [
+		"files for your website should be uploaded here!",
+		"index2.html"
+	],
+	"dirsToRemove": []
+}
